@@ -1,0 +1,6 @@
+{
+  "name": "Lamborghini Car Game",
+  "description": "High-speed 3D mobile highway racing game featuring a realistic yellow Lamborghini supercar, 10-kilometer highway, dynamic traffic, realistic engine audio, and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
